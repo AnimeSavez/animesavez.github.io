@@ -1,0 +1,66 @@
+div.et_pb_section.et_pb_section_6 {
+    background-image: url(https://i.imgur.com/q7YAkEw.jpg)!important;
+    color: white;
+    background-size: 100% 100%!important;
+    background-repeat: no-repeat;
+    background-position: 350px!important; 
+
+}
+p{
+color:#aaa;
+}
+.percent-val
+{
+color:rgba(255,255,255,.8)
+}
+h4
+{
+color:#aaaa!important;
+}
+h3
+{
+color:#aaaa!important;
+}
+h2
+{
+color:2BC;
+}
+#footer-bottom
+{
+background-color:#0a051d
+}
+#footer-bottom .et-social-icon a
+{
+color:#4f3e8e;
+}
+#footer-info
+{
+color:rgba(131,112,200,.8);
+}
+#main-header
+{
+background:radial-gradient(at top,#4F3E88,#3E2D58 80%,#3E2D55);
+}
+a
+{
+color:rgba(131,112,200,.8)!important;
+}
+.et-fixed-header #top-menu li.current-menu-ancestor>a, .et-fixed-header #top-menu li.current-menu-item>a 
+{
+color:rgba(131,112,200,.8)!important;
+}
+.et-fixed-header #top-menu a, .et-fixed-header #et_search_icon:before, .et-fixed-header #et_top_search .et-search-form input, .et-fixed-header .et_search_form_container input, .et-fixed-header .et_close_search_field:after, .et-fixed-header #et-top-navigation .et-cart-info
+{
+color:rgba(131,112,200,.8)!important;
+}
+.et_pb_section
+{
+background: radial-gradient(ellipse at top,#534E9D,#46409C 86%,#4640AD)!important;
+}
+.et_pb_section_4
+{
+background-image: url(https://i.imgur.com/61Z6nlw.jpg)!important;
+    background-position: bottom right;
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+}
